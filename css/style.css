@@ -1,0 +1,43 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+.clicked {
+    color: tomato;
+    transition: color .5s ease-in-out;
+}
+
+.sexyfont{
+    font-style:normal;
+}
+
+
+
+
+.resized-below-1000{
+    background-color: #3498db;
+}
+
+.resized-1000-1500 {
+    background-color: yellow;
+}
+
+.resized-over-1500{
+    background-color: #9b59b6;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+
+
+
+/* blue '#3498db',
+pueple '#9b59b6' */
