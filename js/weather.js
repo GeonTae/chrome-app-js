@@ -1,4 +1,4 @@
-const API_KEY = "a2279b5e3f98837741bbc1e47a2a9774";
+const API_KEY = "";
 
 function onGeoOk(position) {
     // console.log("Geolocation success:", position);
