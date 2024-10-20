@@ -1,10 +1,8 @@
 // creating element here and then send it to html
 
+const images = ["0.JPG", "1.JPG", "2.JPG"];
 
-
-const images = ["0.JPG","1.JPG","2.JPG"];
-
-const chosenImage = images[Math.floor(Math.random()*images.length)];
+const chosenImage = images[Math.floor(Math.random() * images.length)];
 
 console.log(chosenImage);
 
@@ -14,8 +12,6 @@ console.log(chosenImage);
 // console.log(bgImage);
 
 // document.body.appendChild(bgImage);
-
-
 
 const bgImage = document.createElement("style");
 

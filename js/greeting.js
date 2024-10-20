@@ -60,7 +60,7 @@ function loginSubmit(event){
 //2
 function paintGreetings(username) {
     greeting.classList.remove(HIDDEN_CLASSNAME);
-    greeting.innerText=`Hi ${username}, nice to meet you!`;
+    greeting.innerText=`Hi ${username}, nice to meow you!😸`;
 }
 
 function handleLinkClick(event){
